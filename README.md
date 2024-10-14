@@ -1,2 +1,2 @@
-# Evaluaci-n-programaci-n-I
+# Evaluacon-programacion-I
 Primer parcial Programación I
