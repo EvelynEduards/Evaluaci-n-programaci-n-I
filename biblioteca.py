@@ -179,6 +179,7 @@ def solicitar_criterio(mensaje: str) -> str:
     criterio = input(mensaje)
     while criterio != "ASC" and criterio != "DESC":
         print("Por favor, ingresa 'ASC' o 'DESC'.")
+        criterio = input(mensaje)
     else:
         return criterio
             
